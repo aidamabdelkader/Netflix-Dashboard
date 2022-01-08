@@ -3,6 +3,6 @@
 The Netflix Dahsboard provides an overview of Netflix performance and activity seperated into TV Shows and Movies across different countries and ages. 
 The Dashboard was build using R markdown and knited through flexdashboard nd being linked with CSS file to adjust for the Icons colors and navigator options 
 
-<img width="1436" alt="Netflix_pictures" src="https://user-images.githubusercontent.com/66953337/148652947-3db40edf-de00-4c5d-9969-d7c31ef01ed5.png">
-<img width="1440" alt="Value_box" src="https://user-images.githubusercontent.com/66953337/148653060-46c6235d-5a32-4b2c-8530-d3cf02d47a99.png">
-<img width="1440" alt="2graphs" src="https://user-images.githubusercontent.com/66953337/148653068-d9a70c19-5981-4e28-a9e0-a9a6d8aa5791.png">
+<img width="1436" alt="FD1" src="https://user-images.githubusercontent.com/66953337/148655040-80acdda9-3b96-4804-b366-3cdeca9c493d.png">
+<img width="1432" alt="FD2" src="https://user-images.githubusercontent.com/66953337/148655051-07680b98-f0f3-4635-992f-5a7a9f9be6b4.png">
+<img width="1440" alt="FD3" src="https://user-images.githubusercontent.com/66953337/148655073-1f96e22b-6d8b-4562-aad3-c1fe48bae00a.png">
