@@ -1,0 +1,33 @@
+
+.navbar {
+  background-color:  #221f1f;
+  border-color: #b20710;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+color: white;
+background-color: #b20710;
+border-color: #b20710;
+font-weight: 900;
+
+}
+.value-box .icon i.fa.fa-television{
+  
+    color: white
+  
+}
+.value-box .icon i.fa.fa-file-video-o{
+  
+    color: white
+  
+}
+
+body {
+font-family:Times New Roman;
+font-size = 12pt;
+
+}
+
+nav a:hover{ 
+	background-color: #b20710; 
+	color:  #b20710; 
+}
